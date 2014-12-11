@@ -3,7 +3,7 @@
 ## Announcement
 
 I only have built it on Ubuntu. It should works on Debian, you have to install dependency by your-
-self. If you have successfully build this on other distro, please share your build note.
+self. If you have successfully built this on another distro, please share your build note.
 
 ## Install dependency
 
